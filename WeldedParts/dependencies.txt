@@ -1,0 +1,6 @@
+dependencies for welded parts:
+* KIS
+* USI-Reactors
+* USI-ExpPack (AES-Pod)
+* USI-LS (small supply pack)
+* custom-mm-folder (RCS)
